@@ -1,0 +1,11 @@
+
+*Analysis
+
+*There is a correlation between number of rides and the average fare per city. Urban cities
+ the highest number of rides, the highest number of drivers and 
+ had the lowest average fare of the three city types.
+*Urban cities have the highest percentage of total fares at 62.7%.
+*Even though rural cities had the highest average fare per city, 
+ the rural cities had the smallest segment of th total fares by city pie chart at 6.8%.
+*Urban cities had the largest percentage of total rides.
+*Urban cities had the largest percentage of drivers.
